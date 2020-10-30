@@ -1,4 +1,4 @@
-this is a line for test.
+Test by Lushangjun.
 # ucas-covid19
 国科大疫情防控每日填报助手，用于解决忘记填写企业微信中身体状况每日打卡的问题。
 
